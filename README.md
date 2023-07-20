@@ -4,4 +4,6 @@ It describe the in depth EDA of very famous Titanic dataset.
 
 Titanic dataset describe the survival status of individual passengers on the Titanic.
 Following are the snapshots of different charts generated in this EDA process
-![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/81e05026-e095-461f-a174-1ecfbd96806b)
+
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/d9331073-ceff-4d2b-a4db-b94f5efac3ca)
+
