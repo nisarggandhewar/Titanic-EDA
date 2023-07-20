@@ -31,6 +31,10 @@
 ### Relationship between different variables of dataset
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4e2deec0-fc79-4b80-bd4f-ac32ea71d79f)
 
+## Sample
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/744ec26a-89b7-4e50-b3f4-ff3c1fe68a92)
+
+
 
 ## Obervations
 - Chances of female survival is more than male 
