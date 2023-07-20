@@ -1,5 +1,5 @@
 # Titanic-EDA
-It describe the in depth EDA of very famous Titanic dataset.
+## It describe the in depth EDA of very famous Titanic dataset.
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4a84c7c2-6224-4f67-ad95-59b21370c7a8)
 
 Titanic dataset describe the survival status of individual passengers on the Titanic.
@@ -12,3 +12,33 @@ Titanic dataset describe the survival status of individual passengers on the Tit
 
 ### Genderwise Count of passengers
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/8d440a1e-86e6-487c-85d0-14e7f6e44bbe)
+
+### Passengers survived with respeect to class
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/3d367502-5c3c-45f4-8870-dab8676089d3)
+
+### Passeengers survived with respect to onboarded from different port
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/eb85ce59-c985-4a86-9263-0ef4fdd4636b)
+
+### Age wise distibution of survival of passengers
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4d0bb91e-01fa-4b8f-912f-d6be37bcfe51)
+
+## Obervations
+- Chances of female survival is more than male 
+- Travelling in Pclass 3 is deadliest
+- Passenger onboarded from C is survived more
+- Passenger travelling with small families had a higher chance of surviving the accident in comparision to people with large families & travelling alone
+- 891 passengers travelling in Titanic ship
+- 62% passengers died in Titanic Incident
+- Most of passengers (491) travelling through class 3
+- Out of total passengers travelling, most of passengers are male.
+- 64% are male passengers
+- Maximum passengers are travelling alone
+- Most of Passengers on boarded on ship from port Southampton
+- Most of passengers travelling in Titanic having age in the range of 20 to 40
+- 14 passengers travelling in Titanic have age less than1
+- Most of passengers paid fare less than 50$
+- Most of passengers died from class 3
+- More female survived in Titanic Incident
+- Most of passengers on boarded from port Cherbourg are survived.
+- Most of passengers on boarded from port Southampton are died
+- Most of younger Passengers are survived & older passengers are died in Titanic Incident.
