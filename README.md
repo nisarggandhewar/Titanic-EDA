@@ -1,4 +1,4 @@
-# Titanic-EDA
+<H1> <Center> Titanic-EDA </Center></H1> 
 ## It describe the in depth EDA of very famous Titanic dataset.
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4a84c7c2-6224-4f67-ad95-59b21370c7a8)
 
