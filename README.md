@@ -28,6 +28,10 @@
 ### Age wise distibution of survival of passengers
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4d0bb91e-01fa-4b8f-912f-d6be37bcfe51)
 
+### Relationship between different variables of dataset
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/4e2deec0-fc79-4b80-bd4f-ac32ea71d79f)
+
+
 ## Obervations
 - Chances of female survival is more than male 
 - Travelling in Pclass 3 is deadliest
