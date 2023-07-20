@@ -37,7 +37,6 @@
 
 
 
-
 ## Obervations
 - Chances of female survival is more than male 
 - Travelling in Pclass 3 is deadliest
