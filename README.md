@@ -7,6 +7,8 @@ Titanic dataset describe the survival status of individual passengers on the Tit
 ## Following are the snapshots of different charts generated in this EDA process
 
 
-### Passengers survived in Titanic Incident
+### Passengers Survival Count
 ![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/d9331073-ceff-4d2b-a4db-b94f5efac3ca)
 
+### Genderwise Count of passengers
+![image](https://github.com/nisarggandhewar/Titanic-EDA/assets/43102697/8d440a1e-86e6-487c-85d0-14e7f6e44bbe)
